@@ -1,4 +1,4 @@
-# Tic_Tac_Toe_using_cpp
+# Tic Tac Toe using CPP
 This is the code of the tic tac toe game with the simplest logic for beginners who try to learn CPP.
 # Code Description
 For ease, I put the whole code in a single .cpp file, so the sequence of code is as follow:
